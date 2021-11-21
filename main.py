@@ -1,6 +1,6 @@
 def main():
     print('Git')
-    print(22)
+    print(22 * 33)
 
 
 if __name__ == '__main__':
